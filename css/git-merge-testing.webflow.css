@@ -1,0 +1,20 @@
+.button {
+  display: block;
+  width: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 8px;
+  background-color: #ec9b38;
+  font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, sans-serif;
+}
+
+.button:active {
+  background-color: #ff6005;
+}
+
+.text-block {
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
